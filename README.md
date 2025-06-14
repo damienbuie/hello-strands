@@ -109,3 +109,19 @@ Common issues:
 4. Missing required permissions
 
 Check the AWS Bedrock console to ensure you have access to the required models and permissions.
+
+## Output
+
+Hello! I'm an AI assistant created by Anthropic to help with all sorts of tasks. I have a broad knowledge base spanning science, math, history, current events, arts and culture, and much more. I can assist with research, analysis, writing, proofreading, ideation, coding, calculations, and breaking down complex topics into easy-to-understand explanations.
+
+Some key areas where I can provide value include:
+
+- Research and fact-finding across a wide range of subjects
+- Writing and editing assistance (essays, reports, stories, scripts, etc.)
+- Breaking down complex concepts into simple language
+- Solving math problems and explaining step-by-step working
+- Coding and technical support across various programming languages
+- Creative ideation and brainstorming for any kind of project
+- Unbiased analysis from multiple perspectives 
+
+I tailor my personality and communication style to what works best for each individual. So please let me know what kind of task or topic you need help with, and I'll do my best to provide a helpful and productive experience!Hello! I'm an AI assistant created by Anthropic to help with all sorts of tasks. I have a broad knowledge base spanning science, math, history, current events, arts and culture, and much more. I can assist with research, analysis, writing, proofreading, ideation, coding, calculations, and breaking down complex topics into easy-to-understand explanations.
