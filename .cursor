@@ -1,0 +1,32 @@
+{
+    "project": {
+        "name": "hello-strands",
+        "description": "AWS Bedrock agent using Strands",
+        "type": "python"
+    },
+    "settings": {
+        "python": {
+            "interpreter": ".venv/bin/python",
+            "linting": {
+                "enabled": true,
+                "pylint": true,
+                "flake8": true
+            },
+            "formatting": {
+                "enabled": true,
+                "black": true
+            }
+        },
+        "editor": {
+            "formatOnSave": true,
+            "tabSize": 4,
+            "insertSpaces": true
+        }
+    },
+    "ignore": [
+        ".venv",
+        "__pycache__",
+        "*.pyc",
+        ".DS_Store"
+    ]
+} 
